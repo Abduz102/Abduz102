@@ -2,7 +2,6 @@
 
 ### 💻 Estudiante de asistente en Desarrollo de Software y futuro desarrollador de videojuegos 🎮
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abduz102&label=Profile views&color=0e75b6&style=flat" alt="Abduz102" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abduz102" alt="Abduz102" /></a> </p>
 
