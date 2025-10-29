@@ -1,4 +1,4 @@
-# Hi 👋, I'm Jean Maldonado
+# Hi 👋, I'm Jean Maldonado (Abduz)
 
 ### 💻 Estudiante de asistente en Desarrollo de Software y futuro desarrollador de videojuegos 🎮
 
