@@ -1,6 +1,6 @@
 # Hi 👋, I'm Jean Maldonado (Abduz)
 
-### 💻 Estudiante de asistente en Desarrollo de Software y futuro desarrollador de videojuegos 🎮
+### 💻 Estudiante de asistente en Desarrollo de Software
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abduz102" alt="Abduz102" /></a> </p>
