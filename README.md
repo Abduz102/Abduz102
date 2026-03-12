@@ -6,11 +6,14 @@
 
   <br><br>
 
-  <img src="https://komarev.com/ghpvc/?username=abduzcan6204&label=PROFILE%20VIEWS&color=1793D1&style=flat-square" alt="Abduz Views" />
+  <div align="center">
+  <img src="https://github.com/user-attachments/assets/c6382a62-7ecc-44eb-8056-b0f84c944580" width="70%" style="border-radius: 15px;" alt="Intro Abduz">
 
   <br><br>
 
-  <a href="https://www.linkedin.com/in/anderson-mendoza-ramos-7551141b7/" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=abduzcan6204&label=PROFILE%20VIEWS&color=1793D1&style=flat-square" alt="Abduz Views" />
+  
+  &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/anderson-mendoza-ramos-7551141b7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28">
   </a>
   <a href="https://discord.com/users/abduzcan6204" target="_blank">
@@ -19,7 +22,7 @@
   <a href="https://x.com/Jeanfra36972049" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="28">
   </a>
-  <a href="https://www.instagram.com/abduz102/" target="_blank">
+  <a href="https://www.instagram.com/abduzcan_102" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28">
   </a>
 </div>
@@ -57,7 +60,7 @@
 
 ---
 
-### 📊 Estadísticas (Actualizado)
+### 📊 Estadísticas
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abduzcan6204&show_icons=true&theme=vision-friendly-dark&count_private=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduzcan6204&layout=compact&theme=vision-friendly-dark" height="170" />
