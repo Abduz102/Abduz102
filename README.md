@@ -1,13 +1,9 @@
 <div align="center">
-  <img src="![videopresentaciongithub-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c6382a62-7ecc-44eb-8056-b0f84c944580)
-" width="100%" alt="Intro Abduz">
-</div>
+  <img src="https://github.com/user-attachments/assets/c6382a62-7ecc-44eb-8056-b0f84c944580" width="100%" alt="Intro Abduz">
 
-  <br>
-
-  <img src="https://komarev.com/ghpvc/?username=abduzcan6204&label=Profile%20views&color=0e75b6&style=flat" alt="Abduz Views" />
-
-  <br><br>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=abduzcan6204&label=PROFILE%20VIEWS&color=1793D1&style=flat-square" alt="Abduz Views" />
+  </p>
 
   <a href="https://www.linkedin.com/in/anderson-mendoza-ramos-7551141b7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28">
@@ -49,12 +45,14 @@
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### 📈 Actividad y Contribuciones
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abduzcan6204&theme=react-dark&bg_color=0D1117&hide_border=true&color=1793D1" width="100%" />
+</p>
+
+---
+
+### 📊 Mis Estadísticas
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abduzcan6204&show_icons=true&theme=vision-friendly-dark" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduzcan6204&layout=compact&theme=vision-friendly-dark" height="170" />
-</div>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abduzcan6204&theme=dracula&column=7" alt="trofeos" />
-</p>
+  <img src="https://github-readme-stats.vercel.
