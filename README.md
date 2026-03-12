@@ -57,13 +57,13 @@
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### 📊 Estadísticas (Actualizado)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abduzcan6204&show_icons=true&theme=vision-friendly-dark" height="170" alt="Estadísticas de Abduz" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduzcan6204&layout=compact&theme=vision-friendly-dark" height="170" alt="Lenguajes de Abduz" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abduzcan6204&show_icons=true&theme=vision-friendly-dark&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduzcan6204&layout=compact&theme=vision-friendly-dark" height="170" />
 </div>
 
 <p align="center">
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=abduzcan6204&theme=dracula&column=7" alt="Trofeos de Abduz" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abduzcan6204&theme=dracula&column=7" alt="Trofeos" />
 </p>
