@@ -1,12 +1,6 @@
 <div align="center">
-  <video 
-    src="https://github.com/user-attachments/assets/383f9a45-9456-4970-bd3a-3ef59542ce9b" 
-    width="100%" 
-    autoplay 
-    loop 
-    muted 
-    playsinline>
-  </video>
+  <img src="![videopresentaciongithub-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c6382a62-7ecc-44eb-8056-b0f84c944580)
+" width="100%" alt="Intro Abduz">
 </div>
 
   <br>
