@@ -1,11 +1,3 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/c6382a62-7ecc-44eb-8056-b0f84c944580" 
-       width="70%" 
-       style="border-radius: 15px; border: 2px solid #1793D1; box-shadow: 0 4px 8px rgba(0,0,0,0.5);"
-       alt="Intro Abduz Banner">
-
-  <br><br>
-
   <div align="center">
   <img src="https://github.com/user-attachments/assets/c6382a62-7ecc-44eb-8056-b0f84c944580" width="70%" style="border-radius: 15px;" alt="Intro Abduz">
 
