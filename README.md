@@ -23,7 +23,7 @@
 
 ### 📚 Sobre mí
 - 🎓 Estudiante de Desarrollo de Software en **CESDE**.
-- 🐧 Usuario de **Arch Linux** (I use Arch btw).
+- 🐧 Usuario de **Arch Linux** 
 - 🎮 Interesado en **Ciberseguridad** y **Desarrollo de Videojuegos**.
 - ✉️ Contacto: **Jeanfrankm36@gmail.com**
 
