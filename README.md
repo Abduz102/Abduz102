@@ -45,13 +45,6 @@
 
 ---
 
-### 📈 Actividad y Contribuciones
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abduzcan6204&theme=react-dark&bg_color=0D1117&hide_border=true&color=1793D1" width="100%" alt="Gráfico de Actividad de Abduz" />
-</p>
-
----
-
 ### 📊 Estadísticas
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abduzcan6204&show_icons=true&theme=vision-friendly-dark&count_private=true" height="170" />
