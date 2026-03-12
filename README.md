@@ -1,34 +1,33 @@
 <div align="center">
-  <video src="
-https://github.com/user-attachments/assets/ab57a26e-2364-428a-9dd2-24bf6406918e" width="100%" controls>
-  </video>
+  <div align="center">
+  <video src="https://github.com/user-attachments/assets/ab57a26e-2364-428a-9dd2-24bf6406918e" width="100%" controls></video>
+</div>
 </div>
 
 <!-- GIF HEADER -->
-<img src="![WhatsApp Image 2026-03-11 at 9 36 32 PM (1)](https://github.com/user-attachments/assets/25a2b48d-e075-42bb-b27a-b2e2c22972a7)">
 
 <!-- VISTAS DEL PERFIL -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andermendoza&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andermendoza&label=Profile%20views&color=0e75b6&style=flat" alt="Jean Maldonado (Abduz)" /> </p>
 
 <!-- TROFEOS GITHUB -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andermendoza&theme=dracula&column=7" alt="andermendoza" /></a> </p>
 
 <!-- BREVE DESCRIPCION -->
-- 📚 I am currently studying at [Institute Certus](https://www.certus.edu.pe/)
+- 📚 I am currently studying at [Institute CESDE](https://www.cesde.edu.co/)
 
-- 🌱 I am currently in the race **Software Design and Development**
+- 🌱 I am currently in the race **software developer**
 
-- 🏙 Creator of the [Devs Community](https://github.com/Devs-Com) organization
+- 🐧 My preferred operating system is Linux
 
-- 📫 How to reach me **davidmramos30@gmail.com**
+- 📫 How to reach me **Jeanfrankm36@gmail.com**
 
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/anderson-mendoza-ramos-7551141b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
-<a href="https://discord.gg/fpUtBrbKU5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xDeckland#0872" height="30" width="40" /></a>
-<a href="https://twitter.com/andersonmr5302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@andermendoza" height="30" width="40" /></a>
-<a href="https://instagram.com/anderson_mend53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anderson_mend53" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jean Maldonado" height="30" width="40" /></a>
+<a href="https://discord.com/users/abduzcan6204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xDeckland#0872" height="30" width="40" /></a>
+<a href="https://x.com/Jeanfra36972049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@andermendoza" height="30" width="40" /></a>
+<a href="https://www.instagram.com/abduzcan_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anderson_mend53" height="30" width="40" /></a>
 </p>
 
 <!-- LENGUAJES Y HERRAMIENTAS -->
@@ -49,6 +48,3 @@ https://github.com/user-attachments/assets/ab57a26e-2364-428a-9dd2-24bf6406918e"
 
 ------
 
-Credit: [Anderson Mendoza](https://github.com/andermendoza)
-
-Last Edited on: 26/09/2022
