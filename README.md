@@ -5,7 +5,7 @@
 
   <img src="https://komarev.com/ghpvc/?username=abduzcan6204&label=PROFILE%20VIEWS&color=1793D1&style=flat-square" alt="Abduz Views" />
   
-  &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/anderson-mendoza-ramos-7551141b7/" target="_blank">
+  &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/abduzjm/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28">
   </a>
   <a href="https://discord.com/users/abduzcan6204" target="_blank">
