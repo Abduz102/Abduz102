@@ -19,7 +19,7 @@
   <a href="https://x.com/Jeanfra36972049" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="28">
   </a>
-  <a href="https://www.instagram.com/abduzcan_102" target="_blank">
+  <a href="https://www.instagram.com/abduz102/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28">
   </a>
 </div>
