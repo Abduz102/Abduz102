@@ -1,6 +1,6 @@
-  <div align="center">
-  <video src="https://github.com/Abduz102/Abduz102/raw/refs/heads/main/Logo.mp4" width="100%" autoplay loop playsinline></video>
-  </div>
+  <p align="center">
+  <video src="https://github.com/Abduz102/Abduz102/raw/refs/heads/main/Logo.mp4" width="100%" autoplay="autoplay" loop="loop" muted="muted" playsinline="playsinline"></video>
+  </p>
 
   <br><br>
 
