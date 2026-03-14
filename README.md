@@ -1,4 +1,6 @@
- https://github.com/user-attachments/assets/5186f9f0-2647-49d7-8482-a7d03b306b86
+<div align="center">
+  <img src="https://github.com/Abduz102/Abduz102/blob/main/Logo.gif?raw=true" width="100%" alt="Logo Animado" />
+</div>
 
   <br><br>
 
