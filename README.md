@@ -1,5 +1,6 @@
   <div align="center">
-  <img src="https://github.com/user-attachments/assets/c6382a62-7ecc-44eb-8056-b0f84c944580" width="70%" style="border-radius: 15px;" alt="Intro Abduz">
+  <video src="https://github.com/Abduz102/Abduz102/raw/refs/heads/main/Logo.mp4" width="100%" autoplay loop playsinline></video>
+  </div>
 
   <br><br>
 
