@@ -1,6 +1,4 @@
-  <p align="center">
-  <video src="https://github.com/Abduz102/Abduz102/raw/refs/heads/main/Logo.mp4" width="100%" autoplay="autoplay" loop="loop" muted="muted" playsinline="playsinline"></video>
-  </p>
+ https://github.com/user-attachments/assets/5186f9f0-2647-49d7-8482-a7d03b306b86
 
   <br><br>
 
