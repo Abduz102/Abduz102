@@ -53,7 +53,8 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abduz102&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Abduz102&theme=tokyonight&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Abduz102&theme=tokyonight" alt="Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abduz102&theme=tokyonight" alt="Streak Stats" />
 </div>
 
 
