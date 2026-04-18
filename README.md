@@ -51,8 +51,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=abduzcan6204&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduzcan6204&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+</div>
 
-<p align="center">
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=abduzcan6204&theme=dracula&column=7" alt="Trofeos" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abduzcan6204&theme=tokyonight" alt="Trofeos de GitHub" />
+</div>
+
+
+
