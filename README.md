@@ -48,9 +48,9 @@
 
 ### 📊 Estadísticas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abduzcan6204&show_icons=true&theme=vision-friendly-dark&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduzcan6204&layout=compact&theme=vision-friendly-dark" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abduzcan6204&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
 </div>
+
 
 <p align="center">
   <br>
