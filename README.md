@@ -47,17 +47,13 @@
 ---
 
 ### 📊 Estadísticas
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abduzcan6204&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
-</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduzcan6204&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abduz102&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abduz102&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Abduz102&theme=tokyonight&no-bg=true" alt="GitHub Trophies" />
 </div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abduzcan6204&theme=tokyonight" alt="Trofeos de GitHub" />
-</div>
-
 
 
