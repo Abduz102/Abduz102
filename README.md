@@ -51,9 +51,11 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abduz102&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br>
+  <hr>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abduz102&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Abduz102&theme=tokyonight" alt="Trophies" />
+  <br>
+  <hr>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abduz102&theme=tokyonight" alt="Streak Stats" />
 </div>
 
