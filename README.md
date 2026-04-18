@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=" <img width="1536" height="1024" alt="logo v1 0" src="https://github.com/user-attachments/assets/b9243d97-867d-4db9-81e7-07b43c0cb39d" width="80%" alt="Logo Animado" />
+ <img width="1536" height="1024" alt="logo v1 0" src="https://github.com/user-attachments/assets/b1a3e197-0a28-4536-8a33-9bb8485a1b90" />
 </div>
 
   <br><br>
