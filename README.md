@@ -1,5 +1,5 @@
 <div align="center">
- <img width="1536" height="1024" alt="logo v1 0" src="https://github.com/user-attachments/assets/b1a3e197-0a28-4536-8a33-9bb8485a1b90" />
+ <img width="Gemini_Generated_Image_17ubb717ubb717ub.xcf" />
 </div>
 
   <br><br>
