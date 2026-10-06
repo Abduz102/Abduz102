@@ -1,5 +1,5 @@
 <div align="center">
- <img source="https://wallpapers.com/images/hd/kali-linux-os-red-5s4vyt83m0scbaq7.jpg" />
+  <img src="https://wallpapers.com/images/hd/kali-linux-os-red-5s4vyt83m0scbaq7.jpg" alt="Imagen de portada" width="100%" />
 </div>
 
   <br><br>
@@ -25,7 +25,7 @@
 ### 📚 Sobre mí
 - 🎓 Estudiante de Desarrollo de Software en **CESDE**.
 - 🐧 Usuario de **Arch Linux** 
-- 🎮 Interesado en **Ciberseguridad** y de hobby el **Desarrollo de Videojuegos :D**.
+- 🎮 Interesado en **Ciberseguridad** y de hobby el **Desarrollo de Videojuegos**.
 - ✉️ Contacto: **Jeanfrankm36@gmail.com**
 
 ---
