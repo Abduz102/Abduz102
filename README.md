@@ -1,5 +1,5 @@
 <div align="center">
- <img width="https://wallpapers.com/images/hd/kali-linux-os-red-5s4vyt83m0scbaq7.jpg" />
+ <img source="https://wallpapers.com/images/hd/kali-linux-os-red-5s4vyt83m0scbaq7.jpg" />
 </div>
 
   <br><br>
