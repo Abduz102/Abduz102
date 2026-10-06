@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://wallpapers.com/images/hd/kali-linux-os-red-5s4vyt83m0scbaq7.jpg" alt="Imagen de portada" width="100%" />
+  <img src="https://wallpaperaccess.com/full/5555019.jpg" alt="Imagen de portada" width="100%" />
 </div>
 
   <br><br>
