@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://wallpaperaccess.com/full/5555019.jpg" alt="Imagen de portada" width="100%" />
+  <img src="https://img.freepik.com/vector-premium/ilustracion-vector-diseno-ingeniero-software-tecnologia-portatil-codificacion-gato-simple_773815-96.jpg" width="100%" />
 </div>
 
   <br><br>
