@@ -24,7 +24,7 @@
     <td width="62%" valign="top">
       <h3>👨‍💻 Sobre mí</h3>
       <ul>
-        <li>🎓 <strong>Técnico en Desarrollo de Software</strong> (CESDE) y estudiante de <strong>Ingeniería en Seguridad de la Información</strong>.</li>
+        <li>🎓 <strong>Técnico en Desarrollo de Software</strong> (CESDE) y estudiante <strong> en Seguridad de la Información</strong>.</li>
         <li>🐈‍⬛ Usuario diario de <strong>Arch Linux</strong> (<em>I use Arch btw</em>) y entusiasta de la administración de sistemas y automatización.</li>
         <li>🤖 Construyendo asistentes personales y flujos inteligentes con <strong>Python e IA Local (Ollama)</strong>.</li>
         <li>🛡️ Enfocado en aprender <strong>Ciberseguridad</strong>, hardening y desarrollo de software seguro.</li>
