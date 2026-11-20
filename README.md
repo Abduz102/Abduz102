@@ -1,13 +1,13 @@
 <!-- Banner animado estilo terminal Arch Linux -->
 <div align="center">
   <a href="https://github.com/Abduz102">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=1793D1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=Hola%2C+soy+Jean+Maldonado+(Abduz)+%F0%9F%90%A7;Software+Developer+%7C+InfoSec+%7C+Linux+%26+Local+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=1793D1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=Hola%2C+soy+Jean+Maldonado+%F0%9F%90%A7;Software+Developer+%7C+InfoSec+%7C+Linux+%26+Local+AI" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- Badges de contacto y contador de visitas corregido a Abduz102 -->
+<!-- Badges de contacto y contador de visitas -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abduz102&label=PROFILE%20VIEWS&color=1793D1&style=for-the-badge" alt="Abduz Views" />
+  <img src="https://komarev.com/ghpvc/?username=Abduz102&label=PROFILE%20VIEWS&color=1793D1&style=for-the-badge" alt="Profile Views" />
   <a href="https://www.linkedin.com/in/abduzjm/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
