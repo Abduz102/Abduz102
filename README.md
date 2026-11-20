@@ -23,9 +23,9 @@
 ---
 
 ### 📚 Sobre mí
-- 🎓 Estudiante de Desarrollo de Software en **CESDE**.
+- 🎓 Tecnico en Desarrollo de Software y autodidacta en protección de informacion.
 - 🐧 Usuario de **Arch Linux** 
-- 🎮 Interesado en **Ciberseguridad** y de hobby el **Desarrollo de Videojuegos**.
+- 🎮 Interesado en **las nuevas tegnologias** y de hobby el **Desarrollo de Videojuegos**.
 - ✉️ Contacto: **Jeanfrankm36@gmail.com**
 
 ---
