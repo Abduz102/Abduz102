@@ -1,7 +1,7 @@
 <!-- Banner animado estilo terminal Arch Linux -->
 <div align="center">
   <a href="https://github.com/Abduz102">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=1793D1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=Hola%2C+soy+Jean+Maldonado+%F0%9F%90%A7;Software+Developer+%7C+InfoSec+%7C+Linux+%26+Local+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=1793D1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=Hola%2C+soy+Jean+Maldonado+%F0%9F%90%88%E2%80%8D%E2%AC%9B;Software+Developer+%7C+InfoSec+%7C+Linux+%26+Local+AI" alt="Typing SVG" />
   </a>
 </div>
 
@@ -11,14 +11,8 @@
   <a href="https://www.linkedin.com/in/abduzjm/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://discord.com/users/abduzcan6204" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
   <a href="https://x.com/Jeanfra36972049" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://www.instagram.com/abduzcan_102" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:Jeanfrankm36@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -34,7 +28,7 @@
       <h3>👨‍💻 Sobre mí</h3>
       <ul>
         <li>🎓 <strong>Técnico en Desarrollo de Software</strong> (CESDE) y estudiante de <strong>Ingeniería en Seguridad de la Información</strong>.</li>
-        <li>🐧 Usuario diario de <strong>Arch Linux</strong> (<em>I use Arch btw</em>) y entusiasta de la administración de sistemas y automatización.</li>
+        <li>🐈‍⬛ Usuario diario de <strong>Arch Linux</strong> (<em>I use Arch btw</em>) y entusiasta de la administración de sistemas y automatización.</li>
         <li>🤖 Construyendo asistentes personales y flujos inteligentes con <strong>Python e IA Local (Ollama)</strong>.</li>
         <li>🛡️ Enfocado en aprender <strong>Ciberseguridad</strong>, hardening y desarrollo de software seguro.</li>
         <li>🎮 Interesado en nuevas tecnologías y, como hobby, el <strong>Desarrollo de Videojuegos</strong>.</li>
@@ -68,23 +62,4 @@
   <img src="https://img.shields.io/badge/Ollama%20%2F%20Local%20AI-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
-
----
-
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Abduz102&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abduz102&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Abduz102&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</div>
-
----
-
-<!-- Ola decorativa inferior en azul Arch Linux -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1793D1&height=100&section=footer" width="100%" />
+  <img src="
